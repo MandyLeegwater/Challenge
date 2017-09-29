@@ -3,11 +3,15 @@
     background-color: white;
     font-family: 'Oswald', SansSerif;
 }
+
+/* -- header -- */
 .header{
     text-align: center;
     margin: 0;
     height: 158px;
 }
+
+/* -- nav -- */
 .nav{
     background-color: black;
     color: white;
@@ -30,11 +34,15 @@
     text-decoration: none;
     color: white;
 }
+
+/* -- container -- */
 .container{
     margin-left: 20px;
     font-weight: 300;
     color: black;
 }
+
+/* -- Table -- */
 table{
     border-collapse: collapse;
     width: 200px;
